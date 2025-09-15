@@ -6,3 +6,11 @@ pandas
 numpy
 matplotlib
 seaborn
+torch
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+pipreqs
+ipykernel
